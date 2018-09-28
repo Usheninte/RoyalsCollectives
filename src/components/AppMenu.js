@@ -3,8 +3,6 @@ import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
 import { Navbar } from 'react-bootstrap';
 import { Nav } from 'react-bootstrap';
 import { NavItem } from 'react-bootstrap';
-import { NavDropdown } from 'react-bootstrap';
-import { MenuItem } from 'react-bootstrap';
 
 import './Main.css';
 
