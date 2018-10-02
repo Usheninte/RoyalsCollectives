@@ -10,7 +10,7 @@ export default class Portfolio extends Component {
         <h1>Portfolio</h1>
         <Grid>
           <Col xsHidden sm={3}>
-            <Image src={''} rounded responsive />
+            <Image src={'https://res.cloudinary.com/poetrique/image/upload/v1538098818/clients/RoyalsCollectives/final_eazi.png'} rounded responsive />
           </Col>
           <Col sm={6}>
             <Image src={''} rounded responsive />
