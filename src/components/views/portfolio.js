@@ -21,10 +21,10 @@ export default class Portfolio extends Component {
               <Image style={imgSpace} src={'https://res.cloudinary.com/poetrique/image/upload/v1538098811/clients/RoyalsCollectives/kanyeee-01_1.png'} rounded responsive />
             </Col>
             <Col xs={12}>
-              <Image style={imgSpace} src={''} rounded responsive />
+              <Image style={imgSpace} src={'https://res.cloudinary.com/poetrique/image/upload/v1538098807/clients/RoyalsCollectives/zendaya_pink-01.png'} rounded responsive />
             </Col>
             <Col xs={12}>
-              <Image style={imgSpace} src={''} rounded responsive />
+              <Image style={imgSpace} src={'https://res.cloudinary.com/poetrique/image/upload/v1538098789/clients/RoyalsCollectives/pusha_T-01.png'} rounded responsive />
             </Col>
             <Col xs={12}>
               <Image style={imgSpace} src={''} rounded responsive />
@@ -49,10 +49,10 @@ export default class Portfolio extends Component {
               <Image style={imgSpace} src={'https://res.cloudinary.com/poetrique/image/upload/v1538098784/clients/RoyalsCollectives/wiz-01.png'} rounded responsive />
             </Col>
             <Col xs={12}>
-              <Image style={imgSpace} src={''} rounded responsive />
+              <Image style={imgSpace} src={'https://res.cloudinary.com/poetrique/image/upload/v1538098816/clients/RoyalsCollectives/stop_trying_to_be_god-01.png'} rounded responsive />
             </Col>
             <Col xs={12}>
-              <Image style={imgSpace} src={''} rounded responsive />
+              <Image style={imgSpace} src={'https://res.cloudinary.com/poetrique/image/upload/v1538098774/clients/RoyalsCollectives/travis_scott_astro_2wrld018-01.png'} rounded responsive />
             </Col>
             <Col xs={12}>
               <Image style={imgSpace} src={''} rounded responsive />
