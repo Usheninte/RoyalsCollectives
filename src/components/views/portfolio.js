@@ -3,11 +3,11 @@ import { Image } from 'react-bootstrap';
 import { Grid } from 'react-bootstrap';
 import { Col } from 'react-bootstrap';
 
-export default class Portfolio extends Component {
+export default class Creator extends Component {
   render() {
     return(
       <div>
-        <h1>Portfolio</h1>
+        <h1>Creator</h1>
         <Grid>
           <Col xsHidden sm={3}></Col>
           <Col sm={6}>
