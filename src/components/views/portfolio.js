@@ -16,6 +16,17 @@ export default class Portfolio extends Component {
             <Image src={'https://res.cloudinary.com/poetrique/image/upload/v1538098816/clients/RoyalsCollectives/stop_trying_to_be_god-01.png'} rounded responsive />
           </Col>
           <Col xsHidden sm={3}>
+            <Image src={'https://res.cloudinary.com/poetrique/image/upload/v1538098809/clients/RoyalsCollectives/da_slump_god.png'} rounded responsive />
+          </Col>
+        </Grid>
+        <Grid>
+          <Col xsHidden sm={3}>
+            <Image src={''} rounded responsive />
+          </Col>
+          <Col sm={6}>
+            <Image src={''} rounded responsive />
+          </Col>
+          <Col xsHidden sm={3}>
             <Image src={''} rounded responsive />
           </Col>
         </Grid>
