@@ -12,7 +12,7 @@ export default class Footer extends Component {
     return(
       <div style={footerStyle}>
         <h5>RoyalsCollectives &copy; 2018 - 2019 | All Rights Reserved</h5>
-        <h6><a href="https://twitter.com/Usheninte">Coded by Usheninte</a></h6>
+        <h6><a href="https://usheninte.xyz">Coded by Usheninte</a></h6>
       </div>
     );
   }
